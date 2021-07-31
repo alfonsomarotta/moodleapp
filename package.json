@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
+  "name": "csimobile",
   "version": "3.9.4",
-  "description": "The official app for Moodle.",
+  "description": "FORMAZIONE A DISTANZA",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "CSI FORMAZIOEN",
+    "email": "alfonso.marotta@live.it"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
